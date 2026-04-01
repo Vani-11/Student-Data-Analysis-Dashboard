@@ -13,8 +13,8 @@ The Student Data Analysis Dashboard is an interactive Power BI report designed t
 
 ---
 
-## Data Source
-- The dataset contains student-related data such as:
+## Key Features
+- ** KPI Cards **
   - Student ID
   - Name
   - Age
