@@ -4,7 +4,7 @@ The Student Data Analysis Dashboard is an interactive Power BI report designed t
 
 
 ## Objectives
-- **Analyze total student enrollment
+- Analyze total student enrollment
 - **Demographics Insights:** Analyze student distribution by age, gender, class, and location.
 - **Attendance Overview:** Visualize attendance patterns and identify trends.
 - **Interactive Filters:** Filter data by department, course, year, or other parameters.
