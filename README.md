@@ -23,9 +23,9 @@ The Student Data Analysis Dashboard is an interactive Power BI report designed t
 -**Column Chart:** Monthly Course Enrollment
 -**Donut Chart:** Age Group Distribution
 ## Filters (Slicers)
--**Year**
--**City**
--**Course**
+- Year
+- City
+- Course
 
 ## Tools & Technologies Used
 - **Power BI Desktop** – Dashboard creation and data visualization
