@@ -22,6 +22,6 @@ The Student Data Analysis Dashboard is an interactive Power BI report designed t
   - Department / Class
   - Attendance
   - Grades / Scores
-- Data is imported into Power BI from CSV/Excel files (or your actual source).
+  - Data is imported into Power BI from CSV/Excel files (or your actual source).
 
 
